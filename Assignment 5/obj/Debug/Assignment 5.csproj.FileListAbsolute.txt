@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
